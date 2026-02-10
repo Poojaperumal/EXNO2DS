@@ -37,6 +37,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
+
+
 <img width="183" height="68" alt="Screenshot 2026-02-09 161952" src="https://github.com/user-attachments/assets/d66d8324-0568-4333-8993-df8faacd84a0" />
 
 
@@ -59,6 +61,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 <img width="301" height="224" alt="Screenshot 2026-02-09 162020" src="https://github.com/user-attachments/assets/8c627b2e-cf33-4281-8a03-87c2dbe5a10c" />
+
+
 
 
 
