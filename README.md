@@ -27,7 +27,12 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 <img width="1294" height="690" alt="Screenshot 2026-02-09 161933" src="https://github.com/user-attachments/assets/a280598c-db77-4853-bab0-7a7f1847cb6e" />
 
 
+
+
+
 <img width="437" height="388" alt="Screenshot 2026-02-09 161943" src="https://github.com/user-attachments/assets/77075882-e3af-46e8-b083-1fb06f02e573" />
+
+
 
 
 
@@ -38,7 +43,10 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
+
 <img width="1246" height="555" alt="Screenshot 2026-02-09 162006" src="https://github.com/user-attachments/assets/b63d075b-8982-443e-83d1-e3e9ba0971b3" />
+
+
 
 
 
@@ -56,6 +64,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
+
 <img width="580" height="276" alt="Screenshot 2026-02-09 162026" src="https://github.com/user-attachments/assets/c4fd6995-3e10-4843-9e90-0011583bbe30" />
 
 
@@ -67,7 +76,11 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
+
+
 <img width="1275" height="510" alt="Screenshot 2026-02-09 162047" src="https://github.com/user-attachments/assets/72fb4319-a8b3-4ef0-af0a-6a4da430dbfd" />
+
+
 
 
 
@@ -78,7 +91,11 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
+
+
 <img width="805" height="580" alt="Screenshot 2026-02-09 162111" src="https://github.com/user-attachments/assets/e45d48d6-7835-4625-ac77-fa1ddd4385c4" />
+
+
 
 
 
@@ -89,12 +106,18 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
+
+
 <img width="1209" height="603" alt="Screenshot 2026-02-09 162128" src="https://github.com/user-attachments/assets/3807f635-61da-466c-8804-21f0d84cb387" />
 
 
 
 
+
+
 <img width="837" height="532" alt="Screenshot 2026-02-09 162136" src="https://github.com/user-attachments/assets/7927d441-f775-4ad3-ad39-cc7bd70bdd6c" />
+
+
 
 
 
@@ -106,3 +129,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
+   Thus the program to implement the data analysis has been successfully completed.
